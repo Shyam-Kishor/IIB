@@ -7,7 +7,7 @@
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/Test/icons/full/obj30/Test_Flow.gif"/>
     <composition>
       <nodes xmi:type="ComIbmMQInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="111,102" queueName="IN">
-        <translation xmi:type="utility:ConstantString" string="MQ Input"/>
+        <translation xmi:type="utility:ConstantString" string="Source"/>
       </nodes>
       <nodes xmi:type="ComIbmMQOutput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="355,102" queueName="OUT">
         <translation xmi:type="utility:ConstantString" string="MQ Output"/>
